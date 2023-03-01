@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "boilerplate for jwt authentication system",
   "main": "index.js",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
